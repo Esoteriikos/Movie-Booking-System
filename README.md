@@ -1,8 +1,8 @@
 # Movie-Booking-System
 
-###### Youtube [Link](https://youtu.be/twPQMymkgJk)
+## Youtube : [Link](https://youtu.be/twPQMymkgJk)
 
-## Howw to Run
+## How to Run
 -Create 'htdocs' folder inside C:/Xampp/
 
 -Create 'images' folder inside htdocs
